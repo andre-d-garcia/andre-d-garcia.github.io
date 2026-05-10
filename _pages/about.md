@@ -9,7 +9,8 @@ redirect_from:
 
 I am a physics and computer science graduate from Université de Montréal.
 
-I have built interactive simulations for teaching special relativity, including VPython visualizations of Lorentz contraction, Minkowski diagrams, and Michelson interferometry. I have also worked on quantum information projects such as CHSH Bell inequality simulations, E91 quantum key "distribution", and quantum-inspired games.
+Currently seeting up this blog
+
 
 Research interests
 ======
@@ -25,7 +26,7 @@ Selected projects
 
 ### Interactive relativity simulations
 
-I developed VPython simulations to help visualize concepts in special relativity specifically: Lorentz transformations, aether what-if scenarios, and pseudo-forces in rotating frames.
+I have built interactive simulations for teaching special relativity, including VPython visualizations of Lorentz contraction, Minkowski diagrams, and Michelson interferometry.
 
 ### CHSH Bell inequality simulation
 
